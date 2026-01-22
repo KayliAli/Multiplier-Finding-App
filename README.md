@@ -18,16 +18,11 @@ Kullanıcının girdiği bir sayının **pozitif ve negatif çarpanlarını** he
 
 ## 🛠 Kullanılan Teknolojiler
 
-- **Python 3.x**
+- **Python 3.13.9**
 - **Tkinter (GUI)**
 - `math`
 - `os`
 - `sys`
-
----
-
-## 📁 Proje Klasör Yapısı
-
 
 ---
 
