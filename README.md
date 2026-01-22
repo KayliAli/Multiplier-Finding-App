@@ -31,6 +31,7 @@ Uygulama, kullanıcı tarafından girilen sayının **pozitif ve negatif çarpan
 <p align="center">
   <img src="Images/main_screen.png" width="350">
   <img src="Images/result_screen.png" width="350">
+  <img src="Images/error_poup.png" width="350">
 </p>
 
 ---
