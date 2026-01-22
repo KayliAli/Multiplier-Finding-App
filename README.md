@@ -1,8 +1,8 @@
-# 🔢 Çarpan Bulma Uygulaması  
-*(Multiplier Finding Application)*
+# 🔢 Multiplier Finding Application
+*(Çarpan Bulma Uygulaması)* 
 
-Bu proje, **Python ve Tkinter** kullanılarak geliştirilmiş bir masaüstü uygulamasıdır.  
-Kullanıcının girdiği bir sayının **pozitif ve negatif çarpanlarını** hesaplayarak ekranda gösterir.
+Bu proje, Python dili ve **Tkinter GUI kütüphanesi** ile geliştirilmiş bir masaüstü uygulamasıdır.
+Uygulama, kullanıcı tarafından girilen sayının **pozitif ve negatif çarpanlarını hesaplamakta**, elde edilen sonuçları renkli ve sade bir arayüz aracılığıyla ekranda göstermektedir. Ayrıca hatalı girişler için kullanıcıyı bilgilendiren uyarı mekanizmaları içermektedir.
 
 ---
 
