@@ -36,12 +36,11 @@ Uygulama, kullanıcı tarafından girilen sayının **pozitif ve negatif çarpan
 
 ---
 
-## ▶️ Uygulamayı Çalıştırma
+## ▶️ Uygulamayı İndirme
 
-### Python ile
+En son **Windows exe** dosyasını buradan indirebilirsiniz:
+[![Download EXE](https://img.shields.io/badge/Download%20EXE-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/KULLANICI/REPO/releases/latest/download/dosyaadi.exe)
 
-Terminal veya komut satırında proje klasörüne girin:
 
-```bash
-python main.py
+
 
