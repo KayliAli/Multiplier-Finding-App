@@ -1,7 +1,7 @@
 import math
 import tkinter as tk
 from tkinter import messagebox
-import os
+import os,sys
 
 class Application:
     def __init__(self):
@@ -10,14 +10,12 @@ class Application:
         self.pencere.geometry("500x500+500+150")
         self.pencere.resizable(width=False, height=False)
 
-        BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+        if getattr(sys, 'frozen', False):
+            BASE_DIR = sys._MEIPASS
+        else:
+            BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-        icon_path = os.path.join(
-            BASE_DIR,
-            "Files",
-            "logo.ico"
-        )
-        self.pencere.iconbitmap(icon_path)
+        self.pencere.iconbitmap(os.path.join(BASE_DIR, "Files", "logo.ico"))
 
         # Arka planı değiştirme
         self.pencere.configure(bg="lightblue")
