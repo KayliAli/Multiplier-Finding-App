@@ -6,6 +6,8 @@ Uygulama, kullanıcı tarafından girilen sayının **pozitif ve negatif çarpan
 
 ---
 
+
+
 ## 🧩 Özellikler
 
 - ✔ Pozitif ve negatif sayı desteği  
