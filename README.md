@@ -7,7 +7,6 @@ Uygulama, kullanıcı tarafından girilen sayının **pozitif ve negatif çarpan
 ---
 
 ## 🧩 Özellikler
-
 - ✔ Pozitif ve negatif sayı desteği  
 - ✔ Sıfır için giriş kontrolü  
 - ✔ Hatalı girişlerde uyarı mesajı  
