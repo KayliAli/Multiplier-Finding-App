@@ -5,7 +5,6 @@ Bu proje,Python dili ve **Tkinter GUI kütüphanesi** ile geliştirilmiş bir ma
 Uygulama, kullanıcı tarafından girilen sayının **pozitif ve negatif çarpanlarını hesaplamakta**, elde edilen sonuçları renkli ve sade bir arayüz aracılığıyla ekranda göstermektedir. Ayrıca hatalı girişler için kullanıcıyı bilgilendiren uyarı mekanizmaları içermektedir.
 
 ---
-
 ## 🧩 Özellikler
 - ✔ Pozitif ve negatif sayı desteği  
 - ✔ Sıfır için giriş kontrolü  
@@ -34,9 +33,4 @@ Uygulama, kullanıcı tarafından girilen sayının **pozitif ve negatif çarpan
 </p>
 
 ---
-
-
-
-
-
 
